@@ -1,23 +1,24 @@
-- 👋 Hi, I’m @Jaudielhf
-- ¡Bienvenidos a mi rincón en GitHub! Soy un apasionado desarrollador con experiencia escalable y evolutiva en desarrollo web, aplicaciones Java y administración básica en sistemas Linux.
+# 💫 About Me:
+# Sobre mí<br><br>¡Hola! 👋 Soy Jaudielhf, un estudiante apasionado por la tecnología y la programación. A continuación, te cuento un poco más sobre mí:<br><br>- 🌎 Soy de México y tengo 19 años.<br>- 💻 Me encanta explorar nuevas tecnologías y aprender sobre ellas día a día. Desde lenguajes de programación hasta frameworks y herramientas, siempre estoy dispuesto a sumergirme en el mundo digital.<br>- 🚀 Mi interés por la programación y las tecnologías avanzadas sigue creciendo a medida que descubro más sobre el desarrollo web, la inteligencia artificial.<br>- 📚 Actualmente estoy estudiando TIC´S en la UTSEM.<br>- 🤝 Siempre estoy dispuesto a colaborar en proyectos interesantes y aprender junto a otros desarrolladores. Creo firmemente en la comunidad y en compartir conocimientos para impulsar el crecimiento mutuo.<br><br><br>
 
-## Contacto
 
-Puedes encontrarme en las siguientes plataformas:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Jaudiel73) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@jezspoker3144) 
 
-- [Correo Electrónico](jaudielhernandez23@gmail.com)
-- [Instagram](https://instagram.com/jaudiel73?igshid=MzMyNGUyNmU2YQ==)
-- [Facebook](https://www.facebook.com/jaudiel.hernandezflores?mibextid=LQQJ4d)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jaudielhf&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jaudielhf&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaudielhf&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🐱‍🏍## Habilidades
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jaudielhf&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-Mis habilidades técnicas incluyen:
-- Lenguajes: PHP, Java, HTML/CSS, SQL
-- Frameworks: Bootstrap
-- Sistemas Operativos: Linux Ubuntu (administración básica)
-- Herramientas: Apache neatBeans, VS Code
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!---
-Jaudielhf/Jaudielhf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=Jaudielhf&icon=5&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
